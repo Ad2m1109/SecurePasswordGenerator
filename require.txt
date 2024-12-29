@@ -1,0 +1,5 @@
+# Requirements for Password Generator Project
+# No external libraries required.
+tkinter>=0.1.8
+string>=0.1.5
+random>=0.1.1
